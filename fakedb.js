@@ -1,0 +1,62 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "product-title": "Men's Sneaker",
+        "name": "ULTRABOOST 22 SHOES",
+        "brand": "Addidas",
+        "price": 420,
+        "stock": 20,
+        "ratings": 4,
+        "ratingsCount": 3725,
+        "img1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
+        "img2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8c5d1994dfd343e28567ad4400dd351d_9366/4DFWD_Shoes_Black_Q46447_01_standard.jpg",
+        "shipping": 1,
+        "quantity": 0,
+        "product-details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum quo sequi consectetur temporibus, at accusantium voluptate suscipit ducimus cum dolorem odit reprehenderit vitae repellat explicabo, eligendi iusto sint et ipsam?"
+    },
+    {
+        "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+        "product-title": "Men's Sneaker",
+        "name": "LUNAR NEW YEAR ULTRABOOST DNA SHOES",
+        "brand": "Addidas",
+        "price": 196,
+        "stock": 19,
+        "ratings": 5,
+        "ratingsCount": 4355,
+        "img1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2cee64414e1f4f31baf1ae270099d950_9366/Lunar_New_Year_Ultraboost_DNA_Shoes_Black_GZ6074_01_standard.jpg",
+        "img2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0846e90b15144861b33dacf500e3cfd1_9366/Kaptir_2.0_Shoes_White_H00276_01_standard.jpg",
+        "shipping": 14,
+        "quantity": 0,
+        "product-details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum quo sequi consectetur temporibus, at accusantium voluptate suscipit ducimus cum dolorem odit reprehenderit vitae repellat explicabo, eligendi iusto sint et ipsam?"
+    },
+    {
+        "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+        "product-title": "Men's Sneaker",
+        "name": "SUPERNOVA SHOES",
+        "brand": "Addidas",
+        "price": 245,
+        "stock": 20,
+        "ratings": 4,
+        "ratingsCount": 3972,
+        "img1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/69cbc73d0cb846889f89acbb011e68cb_9366/Supernova_Shoes_Black_S42722_01_standard.jpg",
+        "img2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9a8256bb7ca34da49ff8ad5600bb2812_9366/4DFWD_Pulse_Shoes_White_Q46221_01_standard.jpg",
+        "shipping": 1,
+        "quantity": 0,
+        "product-details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum quo sequi consectetur temporibus, at accusantium voluptate suscipit ducimus cum dolorem odit reprehenderit vitae repellat explicabo, eligendi iusto sint et ipsam?"
+    },
+    {
+        "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+        "product-title": "Men's Sneaker",
+        "name": "LITE RACER ADAPT 3.0 SHOES",
+        "brand": "Addidas",
+        "price": 229,
+        "stock": 10,
+        "ratings": 5,
+        "ratingsCount": 1764,
+        "img1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/96a5f085fedf4e678095abad01056711_9366/Lite_Racer_Adapt_3.0_Shoes_Black_FX8802_01_standard.jpg",
+        "img2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0e540bae86d5456aa034ada300ebf46c_9366/ZX_1K_Boost_Shoes_Grey_H00430_01_standard.jpg",
+        "shipping": 32,
+        "quantity": 0,
+        "product-details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum quo sequi consectetur temporibus, at accusantium voluptate suscipit ducimus cum dolorem odit reprehenderit vitae repellat explicabo, eligendi iusto sint et ipsam?"
+    }
+]
