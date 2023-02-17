@@ -1,0 +1,1 @@
+console.log('Linear search for DSA')
