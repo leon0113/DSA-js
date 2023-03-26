@@ -1,1 +1,1 @@
-console.log('Linear search for DSA')
+console.log('Linear search for DSA');
