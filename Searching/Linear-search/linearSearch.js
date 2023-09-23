@@ -7,7 +7,7 @@ function linearSearch(arr, target) {
 
     for (let i = 0; i < arr.length; i++) {
         if (arr[i] === target) {
-            return `Target ${target} founded in index ${i}`
+            return `Target ${target} found in index ${i}`
         }
     }
     return 'not found'
